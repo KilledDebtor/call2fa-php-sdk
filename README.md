@@ -27,7 +27,7 @@ $login = '***';
 $password = '***';
 
 // Configuration for this call
-$callTo = '+380*********';
+$callTo = '+380631010121';
 $callbackURL = 'http://example.com/handler.php';
 
 try {
